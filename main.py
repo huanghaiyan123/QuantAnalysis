@@ -8,6 +8,7 @@ from PyQt5.QtWidgets import QApplication
 from PY_MenuWidget import MenuWidget
 
 if __name__ == '__main__':
+    # 测试Github
     App = QApplication(sys.argv)
     MainWindow = MenuWidget()
     MainWindow.show()
